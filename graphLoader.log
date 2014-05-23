@@ -1,0 +1,3 @@
+2014-05-23 15:49:38,859 INFO  [it.angelo.routing.graph.manager.NeoGraphMgr] Carico il grafo in memoria per la prima volta
+2014-05-23 15:49:48,418 INFO  [it.angelo.routing.graph.manager.NeoGraphMgr] Graph loaded into memory; loading time: 9558 millis. Loaded 525443 nodes and 666336 relations
+2014-05-23 15:49:52,547 INFO  [it.angelo.routing.test.GraphCreatorTest] From point 1 to point 525440 taken 4128 millis
